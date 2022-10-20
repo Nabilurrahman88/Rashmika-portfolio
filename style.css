@@ -1,0 +1,32 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+section {
+    display: flex;
+}
+
+.sad {
+    width: 50%;
+}
+
+.nabil img {
+    width: 80%;
+}
+
+.dada {
+    color: rgb(227, 55, 55);
+}
+
+a {
+    background-color: rgb(240, 73, 73);
+    color: white;
+}
+
+.mama {
+    width: 50%;
+}
+
+.kaka img {
+    width: 80%;
+}
